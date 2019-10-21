@@ -1,0 +1,104 @@
+html,body{
+    font-size: 10px;
+
+}
+li{
+    font-size: 1.9rem;
+    :white;
+}
+
+form {
+     font-size: 20px; ;
+    :white;
+}
+
+
+
+html,body { margin:0; height:100%;}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/Lebron2.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+p{
+  font-size: 20px;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/kyrie-irving-yz-3840x2400-e1525890825514.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    color: blue;
+    font-size: 40px;
+}
+h3{
+color: black;
+    font-size: 20px;
+}
+.bg{
+    color: black;
+}
+h1{
+    color: black;
+}
+bouton{
+    font-size: 30px;
+}
+.parallax3{
+    /* L’image du Parallax */
+    background-image: url("../img/mj.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+i{
+    font-size: 100px;
+}
+.parallax4{
+    /* L’image du Parallax */
+    background-image: url("../img/Bronny.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
